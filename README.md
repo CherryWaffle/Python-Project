@@ -1,2 +1,2 @@
-# Python Project
- a python project for my school's internal exam
+# High-School Project
+ a smol project for my school's internal exam
